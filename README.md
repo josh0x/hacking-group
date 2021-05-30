@@ -3,7 +3,7 @@
 
 ## The Hacking Group
 
-To prove I belong in a hacking group, I have made this Laravel application that meets the following requirements:
+To prove I belong in a hacking group, I have made this Laravel application that meet the following requirements:
 
 - Users require a stronger password instead of the standard 8-character requirement.
 - The application handles forgotten passwords in such a way that is at least secure enough but also easy to implement
